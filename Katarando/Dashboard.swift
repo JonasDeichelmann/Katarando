@@ -11,8 +11,14 @@ struct Dashboard: View {
     var body: some View {
         VStack {
             HStack {
-                Image(name: "")
+                Image(name: "fuelpump.fill")
                 Text("Dieselkraftstoff").font(.title)
+            }
+            VStack {
+                Image(name: "exclamationmark.triangle.fill")
+                HStack {
+                    Text("1000 L")
+                }
             }
         }
     }

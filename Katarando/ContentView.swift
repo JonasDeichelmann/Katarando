@@ -10,6 +10,9 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         TabView {
+            Dashboard().tabItem{
+                Label("Anforderungen", systemImage: "list.dash")
+            }
             
         }
     }
