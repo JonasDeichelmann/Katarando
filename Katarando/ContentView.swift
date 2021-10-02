@@ -13,6 +13,12 @@ struct ContentView: View {
             Dashboard().tabItem{
                 Label("Anforderungen", systemImage: "list.dash")
             }
+            History().tabItem{
+                Label("Vergangene Aufträge", systemImage: "calendar")
+            }
+            MapView().tabItem {
+                Label("Karte", systemImage: "map")
+            }
             
         }
     }

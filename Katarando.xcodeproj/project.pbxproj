@@ -14,6 +14,7 @@
 		06E4CDF727089A5700A5F95D /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E4CDF627089A5700A5F95D /* Dashboard.swift */; };
 		06E4CDF927089ABB00A5F95D /* Image+name.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E4CDF827089ABB00A5F95D /* Image+name.swift */; };
 		06E4CDFB27089B9500A5F95D /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E4CDFA27089B9500A5F95D /* History.swift */; };
+		06E4CDFD2708B0DD00A5F95D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E4CDFC2708B0DD00A5F95D /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		06E4CDF627089A5700A5F95D /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
 		06E4CDF827089ABB00A5F95D /* Image+name.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Image+name.swift"; sourceTree = "<group>"; };
 		06E4CDFA27089B9500A5F95D /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		06E4CDFC2708B0DD00A5F95D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				06E4CDE8270896C000A5F95D /* KatarandoApp.swift */,
 				06E4CDEA270896C000A5F95D /* ContentView.swift */,
 				06E4CDFA27089B9500A5F95D /* History.swift */,
+				06E4CDFC2708B0DD00A5F95D /* MapView.swift */,
 				06E4CDF627089A5700A5F95D /* Dashboard.swift */,
 				06E4CDF827089ABB00A5F95D /* Image+name.swift */,
 				06E4CDEC270896C300A5F95D /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06E4CDEB270896C000A5F95D /* ContentView.swift in Sources */,
+				06E4CDFD2708B0DD00A5F95D /* MapView.swift in Sources */,
 				06E4CDF727089A5700A5F95D /* Dashboard.swift in Sources */,
 				06E4CDF927089ABB00A5F95D /* Image+name.swift in Sources */,
 				06E4CDE9270896C000A5F95D /* KatarandoApp.swift in Sources */,
